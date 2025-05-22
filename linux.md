@@ -48,7 +48,7 @@ sudo ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29 /usr/lib/x86_64-linux-g
 ## conda pointllm
 ### install torch
 ```
-pip install transformers=4.28.0.
+pip install transformers==4.28.0
 pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu117
 ```
 ### install flash attn
