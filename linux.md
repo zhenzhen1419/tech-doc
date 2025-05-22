@@ -54,4 +54,5 @@ pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https
 ### install flash attn
 ```
 pip install flash-attn==2.3.0
+pip install numpy==1.23.5
 ```
