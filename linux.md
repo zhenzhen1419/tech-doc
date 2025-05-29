@@ -56,3 +56,14 @@ pip install torch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 --index-url https
 pip install flash-attn==2.3.0
 pip install numpy==1.23.5
 ```
+
+## conda thinkgrasp
+### gcc: error: ../common/maskApi.c: 没有那个文件或目录
+```
+pip install cython==0.29.36
+```
+### pkg conflict
+```
+pip install --upgrade tensorboard
+pip install --upgrade wandb
+```
